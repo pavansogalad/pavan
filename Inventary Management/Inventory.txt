@@ -1,0 +1,6 @@
+Asset Number : 1
+Asset Name : Bike
+Asset Price : 150000.00
+Asset Number : 2
+Asset Name : Car
+Asset Price : 1000000.00
