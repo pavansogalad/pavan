@@ -1,0 +1,38 @@
+Enter name :
+Punith
+Enter Department :
+EC
+Enter empid :
+20
+Enter name :
+Pavan
+Enter Department :
+Mech
+Enter empid :
+30
+
+Department : EC
+Bonus : 5000
+
+Department : Mech
+Bonus : 3000
+
+No. of supervisors : 100
+
+ Name : Punith
+
+ Department : EC
+
+ No. of employees : 100
+
+ Bonus : 5000
+
+No. of salesmen : 50
+
+ Name : Pavan
+
+ Department : Mech
+
+ No. of employees : 50
+
+ Bonus : 3000
