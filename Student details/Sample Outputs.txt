@@ -1,0 +1,32 @@
+Enter the number of students :
+2
+Enter the Information of student 1
+Enter the student name :
+Punith
+Enter the usn of the student :
+2gi17ec088
+Enter the marks of the  three subjects :
+Enter the Information of student 2
+Enter the student name :
+Enter the usn of the student :
+Enter the marks of the  three subjects :
+||||||||||||||||||||||||||||||||||||
+        The student name is : Punith
+        The student usn is : 2
+        The student marks for
+        m1 : 0
+        m2 is :0
+        m3 is :-1
+        The Total is : -1
+The percentage is :-0.333333%
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||
+        The student name is :
+        The student usn is : 4863872
+        The student marks for
+        m1 : 4866464
+        m2 is :30
+        m3 is :2260992
+        The Total is : 7.12749e+006
+The percentage is :2.37583e+006%
+||||||||||||||||||||||||||||||||||||
